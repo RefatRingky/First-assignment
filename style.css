@@ -1,0 +1,110 @@
+h1{
+    font-size:50px;
+    font-family: serif;
+    /* padding-top: 10%; */
+    
+}
+
+
+.flexible-container
+{
+    display: flex;
+    padding-bottom: 5%;
+}
+.half-width{
+    width: 50%;
+    padding-left: 5%;
+    
+}
+.half-width img{
+    width: 70%; 
+    
+}
+.link-button{
+    text-decoration: none;
+    padding: 10px 40px;
+    background-color: tomato;
+    color: white;
+}
+.box{
+    background-color: lightgrey;
+	width: 250px;
+	height: 300px;
+	border-radius: 20px;
+	float: left;
+	padding: 5%;
+	margin-left: 40px; 
+	margin-right: 5px;
+	background-color: rgba(231, 183, 167, 0.37);
+}
+.box-one{
+    background-color: lightgrey;
+	width: 250px;
+	height: 300px;
+	border-radius: 20px;
+	float: left;
+	padding: 5%;
+	margin-left: 40px; 
+	margin-right: 5px;
+	background-color: rgba(100, 62, 98, 0.329);
+}
+.box-two{
+    background-color: lightgrey;
+	width: 250px;
+	height: 300px;
+	border-radius: 20px;
+	float: left;
+	padding: 5%;
+	margin-left: 40px; 
+	margin-right: 5px;
+	background-color: rgba(83, 108, 136, 0.37);
+
+}
+
+  #box-three{
+	width: 250px;
+	height: 300px;
+	border-radius: 20px;
+	padding: 5%;
+	margin-left: 10px; 
+	margin-right: 10px;
+  }
+  #box-four{
+	width: 250px;
+	height: 300px;
+	border-radius: 20px;
+	
+	padding: 5%;
+	margin-left: 10px; 
+	margin-right: 10px;
+  }
+  #box-five{
+	width: 250px;
+	height: 300px;
+	border-radius: 20px;
+	
+	padding: 5%;
+	margin-left: 10px; 
+	margin-right: 10px;
+  }
+  #container{
+      display: flex;
+  }
+  footer{
+      background-color: black;
+      color: white;
+      height: 100px;
+      padding-top: 2%;
+      padding-bottom: 2%;     
+  }
+  #vertivat-line{
+    border-left: 5px solid tomato;
+	height: 50px;
+    background-position: left;
+    padding-bottom: 10%;
+    
+  }
+
+
+
+
