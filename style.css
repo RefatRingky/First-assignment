@@ -9,7 +9,8 @@ h1{
 .flexible-container
 {
     display: flex;
-    padding-bottom: 5%;
+    padding-bottom: 10%;
+    padding-top: 3%;
 }
 .half-width{
     width: 50%;
@@ -61,7 +62,7 @@ h1{
 
 }
 
-  #box-three{
+  #box-three-portfolio{
 	width: 250px;
 	height: 300px;
 	border-radius: 20px;
@@ -69,7 +70,7 @@ h1{
 	margin-left: 10px; 
 	margin-right: 10px;
   }
-  #box-four{
+  #box-four-portfolio{
 	width: 250px;
 	height: 300px;
 	border-radius: 20px;
@@ -78,7 +79,7 @@ h1{
 	margin-left: 10px; 
 	margin-right: 10px;
   }
-  #box-five{
+  #box-five-portfolio{
 	width: 250px;
 	height: 300px;
 	border-radius: 20px;
